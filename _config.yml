@@ -5,6 +5,8 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
+gems: [jemoji]
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -14,8 +16,9 @@ author :
   name : brbrr
   email : i.kukharuk@gmail.compose
   github : brbrr
-  twitter : username
-  feedburner : feedname
+  instagram : brbrrrr
+  facebook : yarik.brbrr
+  vk : brbrrr
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
