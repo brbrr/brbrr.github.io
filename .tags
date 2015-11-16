@@ -79,60 +79,6 @@ a	/Users/brbrr/Documents/Development/brbrr.github.io/_includes/themes/bootstrap-
 script	/Users/brbrr/Documents/Development/brbrr.github.io/_includes/themes/bootstrap-3/default.html	/^    <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js"><\/script>$/;"	function	line:108
 script	/Users/brbrr/Documents/Development/brbrr.github.io/_includes/themes/bootstrap-3/default.html	/^    <script src="{{ ASSET_PATH }}\/bootstrap\/js\/bootstrap.min.js"><\/script>$/;"	function	line:109
 p	/Users/brbrr/Documents/Development/brbrr.github.io/_includes/chunks/test.html	/^<p>{{ include.a }}<\/p>$/;"	function	line:1
-permalink	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^permalink: \/:categories\/:year\/:month\/:day\/:title$/;"	function	line:3
-exclude	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]$/;"	function	line:5
-highlighter	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^highlighter: pygments$/;"	function	line:6
-gems	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^gems: [jemoji]$/;"	function	line:8
-title	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^title : Немного интроверт$/;"	function	line:13
-tagline	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^tagline: \\#tags\\#moretags$/;"	function	line:14
-author	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^author :$/;"	function	line:15
-name	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  name : brbrr$/;"	function	line:16
-email	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  email : i.kukharuk@gmail.compose$/;"	function	line:17
-github	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  github : brbrr$/;"	function	line:18
-instagram	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  instagram : brbrrrr$/;"	function	line:19
-facebook	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  facebook : yarik.brbrr$/;"	function	line:20
-vk	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  vk : brbrrr$/;"	function	line:21
-production_url	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^production_url : http:\/\/brbrr.github.io$/;"	function	line:31
-JB	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^JB :$/;"	function	line:35
-version	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  version : 0.3.0$/;"	function	line:36
-BASE_PATH	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  BASE_PATH : false$/;"	function	line:60
-ASSET_PATH	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  ASSET_PATH : false$/;"	function	line:70
-THEME	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  THEME : bootstrap-3$/;"	function	line:72
-archive_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  archive_path: \/archive.html$/;"	function	line:77
-categories_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  categories_path : \/categories.html$/;"	function	line:78
-tags_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  tags_path : \/tags.html$/;"	function	line:79
-atom_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  atom_path : \/atom.xml$/;"	function	line:80
-rss_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  rss_path : \/rss.xml$/;"	function	line:81
-comments	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  comments :$/;"	function	line:87
-provider	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    provider : disqus$/;"	function	line:88
-disqus	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    disqus :$/;"	function	line:89
-short_name	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      short_name : jekyllbootstrap$/;"	function	line:90
-livefyre	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    livefyre :$/;"	function	line:91
-site_id	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      site_id : 123$/;"	function	line:92
-intensedebate	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    intensedebate :$/;"	function	line:93
-account	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      account : 123abc$/;"	function	line:94
-facebook	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    facebook :$/;"	function	line:95
-appid	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      appid : 123$/;"	function	line:96
-num_posts	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      num_posts: 5$/;"	function	line:97
-width	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      width: 580$/;"	function	line:98
-colorscheme	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      colorscheme: light$/;"	function	line:99
-duoshuo	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    duoshuo :$/;"	function	line:100
-short_name	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      short_name : jekyllbootstrap$/;"	function	line:101
-analytics	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  analytics :$/;"	function	line:107
-provider	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    provider : google$/;"	function	line:108
-gauges	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    gauges :$/;"	function	line:109
-site_id	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        site_id : 'SITE ID'$/;"	function	line:110
-google	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    google :$/;"	function	line:111
-tracking_id	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        tracking_id : 'UA-123-12'$/;"	function	line:112
-getclicky	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    getclicky :$/;"	function	line:113
-site_id	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      site_id :$/;"	function	line:114
-mixpanel	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    mixpanel :$/;"	function	line:115
-token	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        token : '_MIXPANEL_TOKEN_'$/;"	function	line:116
-piwik	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    piwik :$/;"	function	line:117
-baseURL	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        baseURL : 'myserver.tld\/piwik' # Piwik installation address (without protocol)$/;"	function	line:118
-idsite	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        idsite : '1'                   # the id of the site on Piwik$/;"	function	line:119
-sharing	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  sharing :$/;"	function	line:126
-provider	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    provider : false$/;"	function	line:127
 Sample Posts	/Users/brbrr/Documents/Development/brbrr.github.io/index.md	/^## Sample Posts$/;"	function	line:13
 To-Do	/Users/brbrr/Documents/Development/brbrr.github.io/index.md	/^## To-Do$/;"	function	line:24
 ul	/Users/brbrr/Documents/Development/brbrr.github.io/categories.html	/^<ul class="tag_box inline">$/;"	function	line:9
@@ -165,3 +111,57 @@ blockquote	/Users/brbrr/Documents/Development/brbrr.github.io/assets/themes/boot
 .tag_box a.active	/Users/brbrr/Documents/Development/brbrr.github.io/assets/themes/bootstrap-3/css/style.css	/^.tag_box a.active {$/;"	function	line:113
 Вступления всегда скучны.	/Users/brbrr/Documents/Development/brbrr.github.io/_posts/2015-11-13-cyprus-on-wheels.md	/^### Вступления всегда скучны.$/;"	function	line:11
 Влажное начало	/Users/brbrr/Documents/Development/brbrr.github.io/_posts/2015-11-13-cyprus-on-wheels.md	/^#### Влажное начало$/;"	function	line:24
+permalink	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^permalink: \/:categories\/:year\/:month\/:day\/:title$/;"	function	line:3
+exclude	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]$/;"	function	line:5
+highlighter	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^highlighter: pygments$/;"	function	line:6
+gems	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^gems: [jemoji]$/;"	function	line:8
+title	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^title : Немного интроверт$/;"	function	line:13
+tagline	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^tagline: \\#tags\\#moretags$/;"	function	line:14
+author	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^author :$/;"	function	line:15
+name	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  name : brbrr$/;"	function	line:16
+email	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  email : i.kukharuk@gmail.compose$/;"	function	line:17
+github	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  github : brbrr$/;"	function	line:18
+instagram	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  instagram : brbrrrr$/;"	function	line:19
+facebook	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  facebook : yarik.brbrr$/;"	function	line:20
+vk	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  vk : brbrrr$/;"	function	line:21
+production_url	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^production_url : http:\/\/brbrr.github.io$/;"	function	line:31
+JB	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^JB :$/;"	function	line:35
+version	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  version : 0.3.0$/;"	function	line:36
+BASE_PATH	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  BASE_PATH : false$/;"	function	line:60
+ASSET_PATH	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  ASSET_PATH : false$/;"	function	line:70
+THEME	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  THEME : bootstrap-3$/;"	function	line:72
+archive_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  archive_path: \/archive.html$/;"	function	line:77
+categories_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  categories_path : \/categories.html$/;"	function	line:78
+tags_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  tags_path : \/tags.html$/;"	function	line:79
+atom_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  atom_path : \/atom.xml$/;"	function	line:80
+rss_path	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  rss_path : \/rss.xml$/;"	function	line:81
+comments	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  comments :$/;"	function	line:87
+provider	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    provider : disqus$/;"	function	line:88
+disqus	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    disqus :$/;"	function	line:89
+short_name	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      short_name : brbrr$/;"	function	line:90
+livefyre	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    livefyre :$/;"	function	line:91
+site_id	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      site_id : 123$/;"	function	line:92
+intensedebate	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    intensedebate :$/;"	function	line:93
+account	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      account : 123abc$/;"	function	line:94
+facebook	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    facebook :$/;"	function	line:95
+appid	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      appid : 123$/;"	function	line:96
+num_posts	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      num_posts: 5$/;"	function	line:97
+width	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      width: 580$/;"	function	line:98
+colorscheme	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      colorscheme: light$/;"	function	line:99
+duoshuo	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    duoshuo :$/;"	function	line:100
+short_name	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      short_name : jekyllbootstrap$/;"	function	line:101
+analytics	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  analytics :$/;"	function	line:107
+provider	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    provider : google$/;"	function	line:108
+gauges	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    gauges :$/;"	function	line:109
+site_id	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        site_id : 'SITE ID'$/;"	function	line:110
+google	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    google :$/;"	function	line:111
+tracking_id	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        tracking_id : 'UA-70131359-1'$/;"	function	line:112
+getclicky	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    getclicky :$/;"	function	line:113
+site_id	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^      site_id :$/;"	function	line:114
+mixpanel	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    mixpanel :$/;"	function	line:115
+token	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        token : '_MIXPANEL_TOKEN_'$/;"	function	line:116
+piwik	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    piwik :$/;"	function	line:117
+baseURL	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        baseURL : 'myserver.tld\/piwik' # Piwik installation address (without protocol)$/;"	function	line:118
+idsite	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^        idsite : '1'                   # the id of the site on Piwik$/;"	function	line:119
+sharing	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^  sharing :$/;"	function	line:126
+provider	/Users/brbrr/Documents/Development/brbrr.github.io/_config.yml	/^    provider : false$/;"	function	line:127
