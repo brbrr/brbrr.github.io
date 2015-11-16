@@ -41,6 +41,19 @@ blockquote {
   border-left: 0;
 }
 
+.centered img {
+  display:block;
+  margin:auto;
+}
+
+.smaller {
+  max-width: 80%;
+}
+
+.zero_padding {
+  padding: 0px;
+}
+
 .row-footer {
   border-top: 2px solid #dfe4ea;
   padding-top: 5px;
@@ -101,7 +114,3 @@ blockquote {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
-
-.zero_padding {
-  padding: 0px;
-}

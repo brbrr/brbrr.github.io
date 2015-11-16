@@ -5,9 +5,14 @@ description: "Как я угорел один в Европе"
 category:
 tags: []
 ---
-{% include JB/setup %}
 
-<p>{{ ASSET_PATH }}</p>
+<p>{{ layout.theme }}</p>
+
+<p>{{ page.layout.theme }}</p>
+
+<p>{{ page.title }}</p>
+
+
 
 {% for node in site.pages %}
   {% if node.title != null %}
