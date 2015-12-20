@@ -1,3 +1,8 @@
-<div class="col-md-{{ 12 | divided_by: include.imgs }} {{include.class}}">
-  <img src="{{ include.url }}" class="img-responsive" />
+{% assign a_imgs = include.imgs | split: "," %}
+<div class="row">
+  {% for img in a_imgs %}
+    <div class="col-md-{{ 12 | divided_by: a_imgs.size }} {{include.class}}">
+      <img src="{{ img }}" class="img-responsive  {{include.class}}" />
+    </div>
+  {% endfor %}
 </div>
